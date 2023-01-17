@@ -1,5 +1,5 @@
 const e = React.createElement;
-const button=document.getElementById("button013");
+const button=document.getElementById("click");
 const type1 = document.getElementById('type1');
 const type2 = document.getElementById('type2');
 const type3 = document.getElementById('type3');
