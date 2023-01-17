@@ -1,0 +1,30 @@
+.photo1{
+    width: 100vw;
+    height: 150px;;
+}
+body {
+    background-color: 255,255,255;
+}
+h2{
+    border-left: 10px solid #0674f1;
+    border-bottom: 1px dashed #0674f1;
+    height: 80px;
+    background-image:url("20190902172725-111b867f29b15b9e35f7f06e8811485eb5c260d3.jpg");
+    background-size: cover;
+    color:aliceblue
+}
+h1{
+    border-left: 10px solid #0674f1;
+    border-bottom: 1px dashed #0674f1;
+    text-align: center;
+    color: #0077ff;
+}
+.p1{
+    color:skyblue;
+}
+.p2{
+    color: #f10668;
+}
+.p3{
+    color: lightsteelblue;
+}
